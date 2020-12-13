@@ -2,9 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Secure Coding Python/Exercise Files/05/05_02_begin/status" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Secure Coding Python/Exercise Files/05/05_02_end/status" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Secure Coding Python/Exercise Files/05/05_03_begin/status" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Secure Coding Python/Exercise Files/05/05_03_end/status" vcs="Git" />
   </component>
 </project>
